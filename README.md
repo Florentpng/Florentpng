@@ -1,11 +1,11 @@
 ## Hi, my name is Florent ! :wave:
 I am a 22 years old future developer. </br>
-I am learning Backend and frontend languages. </br>
-I am from france and i am currently training for openclassrooms.
+I am learning **Backend** and **frontend** languages. </br>
+I am from france and i have successfully completed my training from **Openclassrooms**.
 
 ### How to reach me:
-[<img align="left" alt="Florent | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][mail]
-[<img align="left" alt="Florent | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- Email: [<img align="left" alt="Florent | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][mail]
+- LinkedIn: [<img align="left" alt="Florent | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 </br>
 
 ### Languages i am currently learning:
