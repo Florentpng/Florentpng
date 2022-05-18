@@ -28,9 +28,7 @@ I am from **France** and i have successfully completed my training from **Opencl
 ## My future projects :calendar:
 - Learn **PHP** and other frontend languages.
 - Contribute to many projects.
-
-<div align="center">
-### How to reach me :phone:
+  
+<p align="center"> How to reach me :phone: </p>
 [![Mail](https://img.shields.io/badge/-florentjouinot99@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://linkedin.com/in/florent-jouinot-9530b41b7/)](mailto:florentjouinot99@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Florent%20Jouinot-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/florent-jouinot-9530b41b7/)](https://linkedin.com/in/florent-jouinot-9530b41b7/)
-</div>
