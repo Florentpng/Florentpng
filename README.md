@@ -6,7 +6,7 @@ I am from **France** and i have successfully completed my training from **Opencl
 
 </div>
 
-## languages that I master :mortar_board:
+## Languages that I master :mortar_board:
 
   ### Frontend languages & frameworks :tulip:
   - ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)  :handshake:  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
