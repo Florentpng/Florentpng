@@ -12,6 +12,7 @@ I am from france and i have successfully completed my training from **Openclassr
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+</br>
 
 ### How to reach me 
 [![Mail](https://img.shields.io/badge/-florentjouinot99@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://linkedin.com/in/florent-jouinot-9530b41b7/)](mailto:florentjouinot99@gmail.com)
