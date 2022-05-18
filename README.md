@@ -13,7 +13,6 @@ I am from France and i have successfully completed my training from **Openclassr
 ### Backend languages & frameworks :mechanical_leg:
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=black)  :handshake:  ![Node](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)  :handshake:  ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)  :handshake:  ![Squelize](https://img.shields.io/badge/sequelize-323330?style=flat-square&logo=sequelize&logoColor=blue)
 - ![JsonWebToken](https://img.shields.io/badge/json%20web%20tokens-323330?style=flat-square&logo=json-web-tokens&logoColor=pink)
-</br>
 
 ### Database languages :floppy_disk:
 - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
