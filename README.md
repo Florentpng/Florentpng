@@ -22,6 +22,9 @@ I am from **France** and i have successfully completed my training from **Opencl
 - ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
 - ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white)
 
+## Current projects :briefcase:
+- I’m currently learning ReactJS.
+
 ## My future projects :calendar:
 - Learn **PHP** and other frontend languages.
 - Contribute to many projects.
