@@ -1,4 +1,6 @@
 <div align="center">
+
+:large_blue_circle::white_circle::red_circle:
   
 # Hi, my name is Florent ! :wave:
 I am a 22 years old future web developer. I specialize in **frontend** language but i am also learning **backend** language.</br>
@@ -40,4 +42,3 @@ I am from **France** and i have successfully completed my training from **Opencl
 [![Linkedin](https://img.shields.io/badge/-Florent%20Jouinot-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/florent-jouinot-9530b41b7/)](https://linkedin.com/in/florent-jouinot-9530b41b7/)
 
 :large_blue_circle::white_circle::red_circle:
-
