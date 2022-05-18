@@ -8,7 +8,7 @@ I am from **France** and i have successfully completed my training from **Opencl
 
 ## Languages that I master :mortar_board:
 
-          ### Frontend languages & frameworks :tulip:
+   ### Frontend languages & frameworks :tulip:
   - ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)  :handshake:  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
   - ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)  :handshake:  ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=black)  :handshake:  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
