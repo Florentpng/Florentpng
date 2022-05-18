@@ -18,12 +18,10 @@ I am from France and i have successfully completed my training from **Openclassr
 - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 
-
 ### Terminal :computer:
-- ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)  ![GitHub]
+- ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
 - ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white)
 
 ## How to reach me :phone:
 [![Mail](https://img.shields.io/badge/-florentjouinot99@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://linkedin.com/in/florent-jouinot-9530b41b7/)](mailto:florentjouinot99@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Florent%20Jouinot-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/florent-jouinot-9530b41b7/)](https://linkedin.com/in/florent-jouinot-9530b41b7/)
-</br>
