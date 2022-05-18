@@ -4,6 +4,8 @@
 I am a 22 years old future web developer. I specialize in **frontend** language but i am also learning **backend** language.</br>
 I am from **France** and i have successfully completed my training from **Openclassrooms** :sunglasses:.
 
+</div>
+
 ## languages that I master :mortar_board:
 
 ### Frontend languages & frameworks :tulip:
