@@ -13,13 +13,16 @@ I am from France and i have successfully completed my training from **Openclassr
 ### Backend languages & frameworks :mechanical_leg:
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=black)  :handshake:  ![Node](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)  :handshake:  ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)  :handshake:  ![Squelize](https://img.shields.io/badge/sequelize-323330?style=flat-square&logo=sequelize&logoColor=blue)
 - ![JsonWebToken](https://img.shields.io/badge/json%20web%20tokens-323330?style=flat-square&logo=json-web-tokens&logoColor=pink)
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </br>
 
 ### Database languages :floppy_disk:
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+
+
+### Terminal :computer:
+- ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)  ![GitHub]
+- ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white)
 
 ## How to reach me :phone:
 [![Mail](https://img.shields.io/badge/-florentjouinot99@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://linkedin.com/in/florent-jouinot-9530b41b7/)](mailto:florentjouinot99@gmail.com)
