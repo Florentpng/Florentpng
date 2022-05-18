@@ -1,6 +1,6 @@
 ## Hi, my name is Florent ! :wave:
 I am a 22 years old future web developer. I specialize in **frontend** language but I am learning **Backend** and **frontend** languages.</br>
-I am from france and i have successfully completed my training from **Openclassrooms** :sunglasses:.
+I am from France and i have successfully completed my training from **Openclassrooms** :sunglasses:.
 
 ## languages that i know :mortar_board:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
