@@ -14,7 +14,7 @@ I am from france and i have successfully completed my training from **Openclassr
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </br>
 
-### How to reach me 
+### How to reach me :memo::pencil:
 [![Mail](https://img.shields.io/badge/-florentjouinot99@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://linkedin.com/in/florent-jouinot-9530b41b7/)](mailto:florentjouinot99@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Florent%20Jouinot-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/florent-jouinot-9530b41b7/)](https://linkedin.com/in/florent-jouinot-9530b41b7/)
 </br>
