@@ -18,5 +18,5 @@ I am from france and i have successfully completed my training from **Openclassr
 
 [![Linkedin](https://img.shields.io/badge/-florent%jouinot-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/florent-jouinot-9530b41b7/)](https://linkedin.com/in/florent-jouinot-9530b41b7/)
 
-[![Linkedin](https://img.shields.io/badge/-Sarthak%20Bharadwaj-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)
+[![Linkedin](https://img.shields.io/badge/-Sarthak%20Bharadwaj-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](https://linkedin.com/in/florent-jouinot-9530b41b7/)
 </br>
