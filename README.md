@@ -1,6 +1,6 @@
 <div align="center">
   
-# :fr: Hi, my name is Florent ! :wave:
+# Hi, my name is Florent ! :wave:
 I am a 22 years old future web developer. I specialize in **frontend** language but i am also learning **backend** language.</br>
 I am from **France** and i have successfully completed my training from **Openclassrooms** :sunglasses:.
 
@@ -38,4 +38,6 @@ I am from **France** and i have successfully completed my training from **Opencl
 **How to reach me** :phone: </br></br>
 [![Mail](https://img.shields.io/badge/-florentjouinot99@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://linkedin.com/in/florent-jouinot-9530b41b7/)](mailto:florentjouinot99@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Florent%20Jouinot-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/florent-jouinot-9530b41b7/)](https://linkedin.com/in/florent-jouinot-9530b41b7/)
+
+:large_blue_circle::white_circle::red_circle:
 
